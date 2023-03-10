@@ -242,7 +242,7 @@ This method is can be done with low effort, only requiring the player to click o
 .
 __**Revenants**__ *(Courtesy of <@191844571024457728>)*
 .tag:revenants
-⬥ Up to 600 KPH
+⬥ Up to 800 KPH
 .img:https://i.imgur.com/Wm4CDDj.png
 
 .
@@ -253,8 +253,8 @@ Revenants are a popular Wilderness slayer task because of their many collection 
 **__Stats__**
 ⬥ <:combat:797896050370281523> XP per kill : *varies* (64.2 + 21.1 HP to 1,787.4 + 589.8 HP)
 ⬥ <:slayer:797896049548066857> XP per kill : *varies* (25 to 712.4)
-⬥ Optimal kills per hour: 600
-⬥ Optimal <:slayer:797896049548066857> XP per hour : ~220k
+⬥ Optimal kills per hour: 800
+⬥ Optimal <:slayer:797896049548066857> XP per hour : ~250k
 
 .
 **__Desirable Drops__**
@@ -297,6 +297,15 @@ Revenants are a popular Wilderness slayer task because of their many collection 
 ⬥ **Forinthry bracelet** <:DTB:513190159429271562> - upon activation, removes Revenant's aggression for 1 hour, allowing the player to safely kill them 1 by 1. It has 5 charges, consuming 1 per activation. Turns to dust when all charges are used.
 
 .
+⬥ **Dominion Mines** <:dommine:662249620579155968> - When placed, any enemy under 138 combat within a 7x7 range of the mine takes 20% of their maximum hitpoints as damage. The use for these during Revenant killing is to use one Dominion Mine at the spawn location of the Revenant Dragon on each rotation. The Revenant Dragon is the only Revenant that requires a critical hit to kill in one attack with this method, but with one dominion mine their hitpoints drops below the threshold where crits are required.
+
+
+***If using Dominion Mines:***
+.
+⬥ **Ice/Smoke Nihil** <:icenihil:854475442164334592> / <:smokenihil:854475442227642388> - With the addition of Dominion Mines, critical hits are no longer necessary to one-shot the Revenant Dragon. Nihils can be used instead to increase accuracy.
+
+***If not using Dominion Mines:***
+.
 ⬥ **Kal'gerion demon familiar with Scrolls** <:kalgpouch:921410226484301925><:kalgscroll:841409588954923049> - 6% increased critical chance, making one shotting more consistent.
 
 .
@@ -305,7 +314,8 @@ Revenants are a popular Wilderness slayer task because of their many collection 
 After the Wilderness Update, killing Revenants has become substantially safer, as player's can now opt-out of PvP. Despite that, some of their drops are still highly valued because of their rarity.
 
 This method consists in killing them with Legacy combat, 1 by 1. Although it is low effort, it's not AFK due to their distance between spawn locations and long respawn time.
-
+.comment:{"presetName":"Revenants","inventorySlots":[{"label":"salve","image":"https://i.imgur.com/SsNRoVE.png","name":"Elder overload salve","selected":false},{"label":"wildernesssword","image":"https://i.imgur.com/cIHG8g8.png","name":"Wilderness sword 4","selected":false},{"label":"cballs","image":"https://i.imgur.com/39OlNWt.png","name":"Cannonballs","selected":false},{"name":"","image":"","label":"","selected":false},{"name":"","image":"","label":"","selected":false},{"name":"","image":"","label":"","selected":false},{"label":"sailfish","image":"https://i.imgur.com/zWMNrib.png","name":"Sailfish","selected":false},{"label":"salve","image":"https://i.imgur.com/SsNRoVE.png","name":"Elder overload salve","selected":false},{"label":"excal","image":"https://i.imgur.com/KFZJLhU.png","name":"Enhanced excalibur","selected":false},{"label":"mines","image":"https://i.imgur.com/fEO5HWg.png","name":"Dominion mines","selected":false},{"name":"","image":"","label":"","selected":false},{"name":"","image":"","label":"","selected":false},{"label":"revenantdropenhancer","image":"https://i.imgur.com/xE7wk4H.png","name":"Revenant drop enhancer","selected":false},{"label":"sailfish","image":"https://i.imgur.com/zWMNrib.png","name":"Sailfish","selected":false},{"label":"salve","image":"https://i.imgur.com/SsNRoVE.png","name":"Elder overload salve","selected":false},{"label":"elvenshard","image":"https://i.imgur.com/UURvGNW.png","name":"Ancient elven ritual shard","selected":false},{"label":"smokenihil","image":"https://i.imgur.com/kJ17hH6.png","name":"Smoke nihil pouch","selected":false},{"name":"","image":"","label":"","selected":false},{"name":"","image":"","label":"","selected":false},{"label":"lotd","image":"https://i.imgur.com/MtrMHZ0.png","name":"Luck of the dwarves","selected":false},{"label":"sailfish","image":"https://i.imgur.com/zWMNrib.png","name":"Sailfish","selected":false},{"label":"salve","image":"https://i.imgur.com/SsNRoVE.png","name":"Elder overload salve","selected":false},{"label":"blessed","image":"https://i.imgur.com/q7228b9.png","name":"Blessed flask","selected":false},{"label":"kalg","image":"https://i.imgur.com/5dumsv0.png","name":"Binding contract (kal'gerion demon)","selected":false},{"label":"kalgscrolls","image":"https://i.imgur.com/COanosD.png","name":"Crit-i-kal scrolls","selected":false},{"name":"","image":"","label":"","selected":false},{"label":"fairyring","image":"https://i.imgur.com/izBbkMd.png","name":"Portable fairy ring","selected":false},{"label":"infernalpuzzlebox","image":"https://i.imgur.com/U8R9vg2.png","name":"Infernal puzzle box","selected":false}],"equipmentSlots":[{"label":"ghostgoggles","image":"https://i.imgur.com/iyXqN3S.png","name":"Ghost hunter goggles"},{"label":"ghostbackpack","image":"https://i.imgur.com/zNu0qYb.png","name":"Ghost hunter backpack"},{"label":"salvee","image":"https://i.imgur.com/qbsFxuG.png","name":"Salve amulet (e)"},{"label":"inq","image":"https://i.imgur.com/xBT2XFf.png","name":"Inquisitor staff"},{"label":"virtustop","image":"https://i.imgur.com/cau9oLa.png","name":"Virtus robe top"},{"name":"","image":"","label":""},{"label":"ghostlegs","image":"https://i.imgur.com/VLeD3Vy.png","name":"Ghost hunter legs"},{"label":"dtb","image":"https://i.imgur.com/n7j573y.png","name":"Deathtouched bracelet"},{"label":"enhancedblastdiff","image":"https://i.imgur.com/KUGqEdN.png","name":"Enhanced blast diffusion boots"},{"label":"reaverring","image":"https://i.imgur.com/cnIOClx.png","name":"Reaver's ring"},{"label":"graspingpouchblack","image":"https://i.imgur.com/hvhOeDs.png","name":"Grasping rune pouch (black)"},{"label":"runic","image":"https://i.imgur.com/HwmLz6n.png","name":"Supreme runic accuracy aura"},{"label":"scriptureofful","image":"https://i.imgur.com/lPppoD4.png","name":"Scripture of Ful"}]}
+.comment:
 .
 .
 > **__Preset__**
@@ -323,7 +333,7 @@ This method consists in killing them with Legacy combat, 1 by 1. Although it is 
 ⬥ If uncomfortable with the method or cutting corners, Ring of Death <:RoD:513190159462825984> can be used instead of Reaver's Ring <:reaverring:839903943018283050>.
 
 > **__Video Example__**
-https://youtu.be/bozfIcNE1mw
+https://youtu.be/thR98u5krxg
 .
 {
   "embed": {
@@ -334,3 +344,4 @@ https://youtu.be/bozfIcNE1mw
 }
 .embed:json
 .pin:delete
+
